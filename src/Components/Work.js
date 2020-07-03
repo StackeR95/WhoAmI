@@ -11,7 +11,7 @@ export default function (props) {
     }
     const [state,setMyState]=useState(initialState);
     useEffect(()=>{
-        const url = '/assets/';
+        const url = '/assets';
         switch (props.subMenuKey) {
             case 6 :
                 setMyState({
@@ -30,7 +30,7 @@ export default function (props) {
             case 8 :
                 setMyState({
                     company:"IBM",
-                    description:"In 2017 IBM where providing free courses in Egypt for their Cloud service \"Bluemix\" I applied for it and due to my performance  the instructor offered me an intern at IBM, After my good performance they decided to let me be assistant instructor for 50 students.",
+                    description:"In 2017 Ibm where providing free courses in Egypt for their Cloud service \"Bluemix\" I applied for it and due to my performance  the instructor offered me an intern at Ibm, After my good performance they decided to let me be assistant instructor for 50 students.",
                     durationText:"Duration : 1 Month September 2017",
                     imagesArray:[`${url}/IBM/1.jpg`,`${url}/IBM/2.jpg`,`${url}/IBM/3.jpg`],
                 });
@@ -46,9 +46,9 @@ export default function (props) {
             case 10 :
                 setMyState({
                     company:"Purple Panda",
-                    description:"In 2017 IBM where providing free courses in Egypt for their Cloud service \"Bluemix\" I applied for it and due to my performance  the instructor offered me an intern at IBM, After my good performance they decided to let me be assistant instructor for 50 students.",
+                    description:"In 2017 Ibm where providing free courses in Egypt for their Cloud service \"Bluemix\" I applied for it and due to my performance  the instructor offered me an intern at Ibm, After my good performance they decided to let me be assistant instructor for 50 students.",
                     durationText:"Duration : 4 Months March-Current 2020",
-                    imagesArray:[`${url}/IBM/1.jpg`,`${url}/IBM/2.jpg`,`${url}/IBM/3.jpg`],
+                    imagesArray:[`${url}/PurplePanda/1.png`,`${url}/PurplePanda/2.png`,`${url}/PurplePanda/2.png`],
                 });
                 return ;
 
