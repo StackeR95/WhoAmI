@@ -10,3 +10,14 @@
 .customMenuItem{
     padding-left: 0 !important;
 }
+.ant-carousel .slick-slide {
+    text-align: center;
+    height: 160px;
+    line-height: 160px;
+    background: transparent;
+    overflow: hidden;
+}
+
+.ant-carousel .slick-slide h3 {
+    color: #fff;
+}

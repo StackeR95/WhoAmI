@@ -8,7 +8,7 @@ return <div>
     <p>My Name is Ahmed Adel Zakaria</p>
     <p>Nationality : Egyptian 🇪🇬</p>
     <p>Age : 24 👦</p>
-    <p>Work : Software Engineer @<a href={'https://www.purplepanda.be/overons'}>PurplePanda</a> </p>
+    <p>Work : Software Engineer @<a target={'_blank'} href={'https://www.purplepanda.be/over-ons/'}>PurplePanda</a> </p>
     <p>I graduated from Faculty of Engineering Cairo University 2018, During college i had an Internship in <a target={'_blank'} href={'https://www.ibm.com/eg-en'}>IBM</a> then
         I worked as an assistant instructor for <a target={'_blank'} href={'https://cloud.ibm.com/login'}>IBM Cloud service Bluemix</a> . I also worked in <a target={'_blank'} href={'https://www.marriott.com/hotels/travel/caieg-cairo-marriott-hotel-and-omar-khayyam-casino/'}>Cairo Marriott Hotel</a>  as IT assistant.
         In last year in college i had the opportunity to have internship at <a target={'_blank'} href={'https://pixelogicmedia.com/'}>Pixelogic</a> and after graduation I worked as a Software Engineer for Pixelogic for 1.5 year and now I work for Purple Panda in Antwerp.

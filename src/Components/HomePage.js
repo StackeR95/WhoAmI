@@ -4,9 +4,7 @@ import {
     IdcardOutlined,
     EditOutlined,
     AlertOutlined,
-    FileOutlined,
     TeamOutlined,
-    UserOutlined,
 } from '@ant-design/icons';
 import WhoAmI from "./WhoAmI";
 import Studies from "./Studies";
