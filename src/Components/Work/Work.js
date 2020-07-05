@@ -38,7 +38,7 @@ export default function (props) {
             case 9 :
                 setMyState({
                     company:"Pixelogic",
-                    description:"In 2018 I started my journey with Pixelogic as intern in Software Engineering in Test, learned a lot of information about testing field and how to work in Agile environment",
+                    description:"In 2018 I started my journey with Pixelogic as intern in Software Engineering in Test, learned a lot of information about testing field and how to work in Agile environment, and then got hired and worked from 2018 to 2020 as Software Engineer.",
                     durationText:"Duration : 1.5 Years November 2018  - Feb 2020",
                     imagesArray:[`${url}/Pixelogic/1.png`,`${url}/Pixelogic/2.png`,`${url}/Pixelogic/3.png`],
                 });
@@ -46,7 +46,7 @@ export default function (props) {
             case 10 :
                 setMyState({
                     company:"Purple Panda",
-                    description:"In 2017 Ibm where providing free courses in Egypt for their Cloud service \"Bluemix\" I applied for it and due to my performance  the instructor offered me an intern at Ibm, After my good performance they decided to let me be assistant instructor for 50 students.",
+                    description:"In March 2020, I started my journey with Purple Panda as Senior Software Engineer, Full-Stack + Mobile App Development using React-Native",
                     durationText:"Duration : 4 Months March-Current 2020",
                     imagesArray:[`${url}/PurplePanda/1.png`,`${url}/PurplePanda/2.png`,`${url}/PurplePanda/2.png`],
                 });
