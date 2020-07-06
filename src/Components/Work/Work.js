@@ -32,7 +32,7 @@ export default function (props) {
                     company:"IBM",
                     description:"In 2017 Ibm where providing free courses in Egypt for their Cloud service \"Bluemix\" I applied for it and due to my performance  the instructor offered me an intern at Ibm, After my good performance they decided to let me be assistant instructor for 50 students.",
                     durationText:"Duration : 1 Month September 2017",
-                    imagesArray:[`${url}/IBM/1.jpg`,`${url}/IBM/2.jpg`,`${url}/IBM/3.jpg`],
+                    imagesArray:[`${url}/Ibm/1.jpg`,`${url}/Ibm/2.jpg`,`${url}/Ibm/3.jpg`],
                 });
                 return ;
             case 9 :
