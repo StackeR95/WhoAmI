@@ -23,7 +23,7 @@ export default function (props) {
                 setMyState({
                     company:"Marriott",
                     durationText: "Duration : 3 Months June-August 2016",
-                    description:"In 2016 ",
+                    description:"In 2016, I had to apply for training at summer so i had the opportunity to work as IT assistant for 3 months,I learned Networking Topologies,how to setup servers and a lot of information in IT field.   ",
                     imagesArray:[`${url}/Marriott/1.png`,`${url}/Marriott/2.png`,`${url}/Marriott/3.png`],
                 });
                 return ;
